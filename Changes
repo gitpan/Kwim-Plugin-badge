@@ -1,0 +1,30 @@
+0.0.10 Sun Jun  8 12:17:04 PDT 2014
+ - Add badge-coveralls support
+
+0.0.9 Sun Jun  8 11:53:26 PDT 2014
+ - Add travis badge
+
+0.0.8 Sun Jun  8 10:01:12 PDT 2014
+ - Fix for paragraphs in list items
+
+0.0.7 Sat Jun  7 12:26:51 PDT 2014
+ - don't indent blank lines in Pod
+
+0.0.6 Sat Jun  7 09:04:44 PDT 2014
+ - Remove ABSTRACT comment
+
+0.0.5 Sat May 31 18:19:29 EDT 2014
+ - Fix some HTML edge cases.
+
+0.0.4 Thu May 29 11:04:03 EDT 2014
+ - Fix a Pod bug in datalists
+
+0.0.3 Sun May 18 23:21:31 PDT 2014
+ - Call perl with $^X. @eserte++
+
+0.0.2 Sun May 18 17:03:33 PDT 2014
+ - Add pdf/man/dvi support
+
+0.0.1 Sun May 14 12:13:26 PDT 2014
+ - First Release
+
