@@ -20,9 +20,9 @@ my %WriteMakefileArgs = (
   "LICENSE" => "perl",
   "NAME" => "Kwim::Plugin::badge",
   "PREREQ_PM" => {
-    "Kwim" => 0
+    "Kwim" => "v0.0.13"
   },
-  "VERSION" => "0.0.1",
+  "VERSION" => "0.0.2",
   "test" => {
     "TESTS" => "t/*.t"
   }
@@ -30,7 +30,7 @@ my %WriteMakefileArgs = (
 
 
 my %FallbackPrereqs = (
-  "Kwim" => 0
+  "Kwim" => "v0.0.13"
 );
 
 

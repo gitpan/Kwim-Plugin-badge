@@ -18,10 +18,10 @@ no_index:
     - t
     - xt
 requires:
-  Kwim: '0'
+  Kwim: v0.0.13
   perl: v5.8.1
 resources:
   bugtracker: https://github.com/ingydotnet/kwim-plugin-badge-pm/issues
   homepage: https://github.com/ingydotnet/kwim-plugin-badge-pm
   repository: https://github.com/ingydotnet/kwim-plugin-badge-pm.git
-version: 0.0.1
+version: 0.0.2
