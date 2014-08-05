@@ -1,7 +1,8 @@
 package Kwim::Plugin::badge;
-$Kwim::Plugin::badge::VERSION = '0.0.2';
+our $VERSION = '0.0.3';
+
 package Kwim::Pod;
-$Kwim::Pod::VERSION = '0.0.2';
+
 sub phrase_func_badge {
     my ($self, $args) = @_;
     my @args = split / +/, $args;
@@ -41,7 +42,7 @@ sub _badge_coveralls {
 }
 
 package Kwim::Markdown;
-$Kwim::Markdown::VERSION = '0.0.2';
+
 sub phrase_func_badge {
     my ($self, $args) = @_;
     my @args = split / +/, $args;

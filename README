@@ -1,11 +1,8 @@
 NAME
     Kwim::Plugin::badge - Kwim Plugin for Badges
 
-SYNOPSIS
-        <badge travis coveralls githubuserid/reponame>
-
-DESCRIPTION
-    Add pretty Travis and Coveralls badges to your documentation.
+NOTE
+    Renamed to "Swim::Plugin::badge".
 
 AUTHOR
     Ingy döt Net <ingy@cpan.org>
