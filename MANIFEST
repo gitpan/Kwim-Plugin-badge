@@ -30,9 +30,9 @@ inc/TestML/Library/Standard.pm
 inc/TestML/Runtime.pm
 inc/TestML/Runtime/TAP.pm
 inc/TestML/Util.pm
-inc/Text/Diff.pm
 lib/Kwim/Plugin/badge.pm
 lib/Kwim/Plugin/badge.pod
+t/000-compile-modules.t
 t/func.tml
 t/release-pod-syntax.t
 t/test.t
